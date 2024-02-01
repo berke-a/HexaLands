@@ -8,4 +8,4 @@ Desktop application of the popular board game **Catan**. It was developed collab
 
 ##
 
-***Please navigate to the individual folders to see the **detailed READMEs** for specific instructions, more information about each part of the project and screenshots.***
+**Please navigate to the individual folders to see the _detailed READMEs_ for specific instructions, more information about each part of the project and screenshots.**
